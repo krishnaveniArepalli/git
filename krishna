@@ -1,0 +1,6 @@
+git remote add origin <URL>     # Link to GitHub repo
+git push -u origin main         # Push to remote (first time)
+git push                        # Push committed changes
+git pull                        # Pull changes from remote and merge
+git fetch                       # Get changes (but don’t merge yet)
+🔹 7. Reset /
